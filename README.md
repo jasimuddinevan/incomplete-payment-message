@@ -105,7 +105,7 @@ This project is licensed under the GPL v2 or later.
 
 # Incomplete Payment Message Plugin
 
-**Developer:** [Jasim Uddin]  
+**Developer:** Jasim Uddin  
 **Website:** https://jasimevan.com
 **Facebook:** [@jasimuddinevan](https://facebook.com/@jasimuddinevan)  
 **Email:** jasimuddin@xmail.net  
