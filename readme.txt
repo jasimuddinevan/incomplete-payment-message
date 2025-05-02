@@ -1,5 +1,5 @@
 === Incomplete Payment Message ===
-Contributors: yourname
+Contributors: Jasim Uddin
 Tags: payment, message, maintenance
 Requires at least: 5.0
 Tested up to: 6.0
