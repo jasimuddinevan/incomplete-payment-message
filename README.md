@@ -44,7 +44,7 @@ The Incomplete Payment Message plugin allows Developer to display warning messag
    - ⏱️ Popup delay (default 120s)
    - ⏳ Minimum display time (default 20s)
 
-![Admin Panel Screenshot](assets/screenshot-1.png)
+![Admin Panel Screenshot](assets/admin_page_screenshot.png)
 
 ## 🔒 Security Notes
 
