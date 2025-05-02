@@ -144,7 +144,7 @@ function ipm_render_admin_page() {
         </div>
         
         <div class="ipm-footer">
-            <p>Developed by Your Name</p>
+            <p>Developed by <a href="https://facebook.com/jasimuddinevan" target="_blank">Jasim Uddin</a> </p>
         </div>
     </div>
     <?php
@@ -184,7 +184,7 @@ function ipm_add_plugin_action_links($links) {
 }
 
 /**
- * Prevent deactivation when message is enabled
+ * Prevent deactivation when Message is enabled
  */
 function ipm_prevent_deactivation($actions, $plugin_file, $plugin_data, $context) {
     if ($plugin_file == IPM_PLUGIN_BASENAME) {
