@@ -1,0 +1,72 @@
+/* Admin styles */
+.ipm-admin-wrap {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.ipm-admin-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.ipm-card {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.ipm-card h2 {
+    margin-top: 0;
+    color: #23282d;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.ipm-form-group {
+    margin-bottom: 15px;
+}
+
+.ipm-form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.ipm-form-group input[type="text"],
+.ipm-form-group input[type="number"],
+.ipm-form-group input[type="password"],
+.ipm-form-group textarea {
+    width: 100%;
+    max-width: 500px;
+    padding: 8px;
+}
+
+.ipm-submit-section {
+    margin-top: 20px;
+}
+
+.ipm-footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #777;
+    font-size: 13px;
+}
+
+.ipm-deactivate-disabled {
+    color: #a00;
+    font-style: italic;
+}
+
+/* Responsive adjustments */
+@media (max-width: 782px) {
+    .ipm-form-group input[type="text"],
+    .ipm-form-group input[type="number"],
+    .ipm-form-group input[type="password"],
+    .ipm-form-group textarea {
+        max-width: 100%;
+    }
+}
