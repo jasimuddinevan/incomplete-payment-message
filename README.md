@@ -2,7 +2,7 @@
 
 A WordPress plugin that displays customizable warning messages for incomplete payments.
 
-![Plugin Banner](assets/banner.png) *← Optional banner image*
+![Plugin Banner](assets/massage_show_screenshot.png) *← Optional banner image*
 
 ## Description
 
