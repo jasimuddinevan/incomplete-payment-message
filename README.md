@@ -1,6 +1,6 @@
 # Incomplete Payment Message
 
-A WordPress plugin that displays customizable warning messages for incomplete payments.
+A WordPress plugin you can show a customizable warning messages for incomplete payments. commonly if your Clint has not paid your for your work :)
 
 ![Plugin Banner](assets/massage_show_screenshot.png) *← Optional banner image*
 
